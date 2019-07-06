@@ -1,0 +1,2 @@
+C:\Users\Rafal\Documents\My Games\Terraria\ModLoader\Mod Sources\SomeNewGoodStuffLolWeirdNameXD\obj\Debug\SomeNewGoodStuffLolWeirdNameXD.csprojAssemblyReference.cache
+C:\Users\Rafal\Documents\My Games\Terraria\ModLoader\Mod Sources\SomeNewGoodStuffLolWeirdNameXD\obj\Debug\SomeNewGoodStuffLolWeirdNameXD.csproj.CoreCompileInputs.cache

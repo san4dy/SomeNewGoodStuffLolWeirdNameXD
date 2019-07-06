@@ -1,0 +1,36 @@
+Thanks for over 100 downloads. I hope that you're enjoy using this mod and like it although a bit ;<
+
+Changelog:
+
+v 0.1:
+	-First unofficial release
+	-added Every version of Amethyst Sword
+
+v 0.2:
+	-First official release
+	-Added Bows, arrows 
+	-New ore, ingot and Furnace which is required to craft modded items
+
+v 0.3:
+	-Fixed crafting for last version of Bow
+	-Renamed Amethyst Ingot -> Amethyst Bar
+	-Renamed mod from: SomeNewGoodStuffLolWeirdNameXD -> AmethystStuff
+v 0.4:
+	-Fixed some bugs
+	-Removed Vanilla's Amethyst Staff and changed it into modded
+	-Added 2 new magic weapons (welp i don't have any idea for 4th so you can write to me idea or smth ;/)
+
+v 0.5:
+	-Repairedd craftings (again XD)
+	-Repaired spelling errors
+	-Added 4 pickaxes
+	-Added new bar
+	-Modified other craftings
+	-Added new Bar
+	-Added Anvil
+	-Added new Furnace
+	-Added 2 new accessories
+	-Added armor set
+
+Code writer: San4dY (you can add me on Steam and give suggestions what we can do. Link to steam: https://steamcommunity.com/id/San4dY/ )
+Graphic: My friend. He knows that.
